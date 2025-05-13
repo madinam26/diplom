@@ -1,0 +1,3 @@
+timestamp,production_line,downtime_minutes,output_units
+2025-04-01,Line 1,30,500
+2025-04-01,Line 2,15,600
